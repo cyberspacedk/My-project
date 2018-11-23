@@ -17,7 +17,7 @@ Fixed desktop size / css slider
 ```
 ### 5) [Коллективная работа](https://cyberspacedk.github.io/Collaborate/index.html)
 
-### Разные сделанные тренировочные макеты
+### 6) Разные сделанные тренировочные макеты
 
 [1](https://cyberspacedk.github.io/goit-fe-course/module-11/)
 
