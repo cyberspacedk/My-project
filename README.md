@@ -15,5 +15,13 @@ full responsive / Bootstrap 4 / accordeon on pure css / custom checkbox/radio
 ```
 Fixed desktop size / css slider
 ```
+### 5) 
+
+### Разные сделанные тренировочные макеты
+
+[1](https://cyberspacedk.github.io/goit-fe-course/module-11/)
+[2](https://cyberspacedk.github.io/goit-fe-course/module-9/)
+[3](https://cyberspacedk.github.io/goit-fe-course/module-7/)
+[4](https://cyberspacedk.github.io/goit-fe-course/module-5/)
 
  
