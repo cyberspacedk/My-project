@@ -30,23 +30,24 @@ full responsive / Bootstrap 4 / accordeon on pure css / custom checkbox/radio
 ```
 построен на Bootstrap 
 ```
-### 8)  [Build cottedge](https://cyberspacedk.github.io/My-old-training-work/build-cottedge/)
+### 8)  [Neutron-Mail. Одностраничный лендинг.](https://cyberspacedk.github.io/Neutron-Mail/)
 ```
-построен на Bootstrap 
+Fixed desktop size / css slider
 ```
 ### 9)  [Gratia. Адаптивный лендинг для кафе и небольшого ресторана.](https://cyberspacedk.github.io/Gratia/)
 ```
  Bootstrap 4 / css slider 
 ```
- ### 10)  [Neutron-Mail. Одностраничный лендинг.](https://cyberspacedk.github.io/Neutron-Mail/)
+ ### 10)  [Build cottedge](https://cyberspacedk.github.io/My-old-training-work/build-cottedge/)
 ```
-Fixed desktop size / css slider
+fixed Landing page 
 ```
 ### 11) [Collaborate template](https://cyberspacedk.github.io/Collaborate/index.html)
 ### 12) [Тренировочный макет](https://cyberspacedk.github.io/goit-fe-course/module-11/)
 ### 13) [Тренировочный макет](https://cyberspacedk.github.io/goit-fe-course/module-9/)
 ### 14) [Тренировочный макет](https://cyberspacedk.github.io/goit-fe-course/module-7/)
 ### 15) [Тренировочный макет](https://cyberspacedk.github.io/goit-fe-course/module-5/)
+
 
 
 
