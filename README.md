@@ -22,26 +22,27 @@
 ```
 ### [Лендинг Tattoo salon](https://cyberspacedk.github.io/Ink-Tattoo/)
 ```
-построен на GRID FLEXBOX
+GRID FLEXBOX
 ```
 ### [Travelgram. Блог / портфолио](https://cyberspacedk.github.io/Travelgram/)
 ```
-построен на FLEXBOX
+FLEXBOX
 ```
 ### [Лендинг Waxom](https://cyberspacedk.github.io/Collaborate/index.html)
-
-
+```
+FLEXBOX
+```
 ### [Sushi House](https://cyberspacedk.github.io/My-old-training-work/sushi-house/)
 ```
-построен на Bootstrap 
+Bootstrap 
 ```
 ### [Drax](https://cyberspacedk.github.io/Darx/)
 ```
-построен на GRID
+GRID
 ```
 ### [Лендинг Learnin course](https://cyberspacedk.github.io/My-old-training-work/learning-course/)
 ```
-построен на Bootstrap 
+Bootstrap 
 ```
 ### [Лендинг Neutron-Mail](https://cyberspacedk.github.io/Neutron-Mail/)
 ```
@@ -51,14 +52,17 @@ Fixed desktop size / css slider
 ```
  Bootstrap 4 / css slider 
 ```
- ###[Build cottedge](https://cyberspacedk.github.io/My-old-training-work/build-cottedge/)
+### [Build cottedge](https://cyberspacedk.github.io/My-old-training-work/build-cottedge/)
 ```
 fixed Landing page 
 ```
-### [Тренировочный макет](https://cyberspacedk.github.io/goit-fe-course/module-11/)
-### [Тренировочный макет](https://cyberspacedk.github.io/goit-fe-course/module-9/)
-### [Тренировочный макет](https://cyberspacedk.github.io/goit-fe-course/module-7/)
-### [Тренировочный макет](https://cyberspacedk.github.io/goit-fe-course/module-5/)
+### [Template 1](https://cyberspacedk.github.io/goit-fe-course/module-11/)
+
+### [Template 2](https://cyberspacedk.github.io/goit-fe-course/module-9/)
+
+### [Template 3](https://cyberspacedk.github.io/goit-fe-course/module-7/)
+
+### [Template 4](https://cyberspacedk.github.io/goit-fe-course/module-5/)
 
 
 
