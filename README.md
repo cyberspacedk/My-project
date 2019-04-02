@@ -8,7 +8,7 @@
 
 ## HTML/CSS projects 
 
-### [e-commerce woman clothess](http://top-look.com.ua)
+### [E-Shop woman clothess](http://top-look.com.ua)
 ```
 правка PHP/HTML/CSS кода/перенос с локального сервера на хостинг/добаление товаров/подключение дополнительных плагинов
 ```
