@@ -1,5 +1,7 @@
 ## React Redux project
 
+### [TicTacToe Game](http://frontend.dk-tictactoe.surge.sh)
+
 ### [Star Wars DB](https://startwars-cyberspacedk.surge.sh/)
 
 ### [Classic ToDo list](https://todo-cyberspacedk.surge.sh/)
